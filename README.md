@@ -89,17 +89,15 @@ I'm always excited to discuss new projects, innovative ideas, and collaboration 
 Feel free to get in touch or check out my portfolio!
 </p>
 <p align="center">
-  🌐 [**My Portfolio**](https://portfolio-website-lake-iota-24.vercel.app/)
-</p>
-<br>
-<p align="center">
-  <a href="mailto:jagyanjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/jagyanjit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://codesandbox.io/u/jagyanjit"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
-  &nbsp;
-  <a href="https://www.leetcode.com/jagyanjit"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  &nbsp;
-  <a href="https://www.behance.net/jagyanjitrout"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="mailto:jagyanjit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-website-lake-iota-24.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://codesandbox.io/u/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/jagyanjitrout" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
