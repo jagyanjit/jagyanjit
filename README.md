@@ -88,6 +88,7 @@ I'm always excited to discuss new projects, innovative ideas, and collaboration 
 <br>
 Feel free to get in touch or check out my portfolio!
 </p>
+<br>
 <p align="center">
   <a href="mailto:jagyanjit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;&nbsp;
