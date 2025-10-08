@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/jagyanjit">
     <img src="https://komarev.com/ghpvc/?username=jagyanjit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
 </p>
 
 <p align="center">
