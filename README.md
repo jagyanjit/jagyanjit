@@ -1,36 +1,41 @@
-<h1 align="center">Hi there, I'm Jagyanjit 👋</h1>
-<h3 align="center">DevOps Engineer | Cloud Architect | ML Practitioner</h3>
-
 <p align="center">
-  <em>Building resilient infrastructure and intelligent solutions to solve real-world problems.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jagyanjit%20Rout&fontSize=70&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20ML%20Practitioner&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jagyanjit">
-    <img src="https://komarev.com/ghpvc/?username=jagyanjit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=jagyanjit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Commits-96%20(Middle%20Committer)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-11%20(Middle%20Creator)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-96%20(Middle%20Committer)-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Repositories-11%20(Middle%20Creator)-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Experience-Newbie-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Experience"/>
-</p>
-
----
+<div align="center">
 
 > I am a proactive developer passionate about the intersection of cloud computing, DevOps, and machine learning. My goal is to create automated, scalable, and intelligent systems that deliver robust performance and tangible business value.
 
-<br>
-
-### 🚀 What I Do
-- ☁️ **Cloud & DevOps:** Architecting and automating secure, scalable infrastructure on AWS with Terraform, Docker, and Kubernetes.
-- 🔧 **CI/CD Engineering:** Designing and implementing robust CI/CD pipelines using Jenkins (Pipeline-as-Code) to streamline development and deployment.
-- 🤖 **Machine Learning:** Developing and deploying predictive models to uncover insights and drive data-informed decisions.
+</div>
 
 ---
 
-### 🛠️ My Tech Arsenal
+### **🚀 What I Do**
+
+<table align="center" border="0" cellpadding="15">
+  <tr align="center">
+    <th>☁️ Cloud & DevOps</th>
+    <th>🔧 CI/CD Engineering</th>
+    <th>🤖 Machine Learning</th>
+  </tr>
+  <tr align="center">
+    <td>Architecting and automating secure, scalable infrastructure on AWS with Terraform, Docker, and Kubernetes.</td>
+    <td>Designing and implementing robust CI/CD pipelines using Jenkins (Pipeline-as-Code) to streamline development.</td>
+    <td>Developing and deploying predictive models to uncover insights and drive data-informed decisions.</td>
+  </tr>
+</table>
+
+---
+
+### **🛠️ My Tech Arsenal**
 
 <p align="center">
   <strong>Cloud & DevOps</strong><br><br>
@@ -63,7 +68,7 @@
 
 ---
 
-### 📊 My GitHub Contributions
+### **📊 My GitHub Contributions**
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="Jagyanjit's GitHub Stats" />
@@ -76,23 +81,25 @@
 
 ---
 
-### 📫 Let's Connect!
-
-I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities. Please feel free to get in touch!
-<br>
-<br>
-🌐 **My Portfolio:** [portfolio-website-lake-iota-24.vercel.app](https://portfolio-website-lake-iota-24.vercel.app/)
-<br>
-<br>
+### **📫 Let's Connect!**
 
 <p align="center">
-  <a href="mailto:jagyanjit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jagyanjit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codesandbox.io/u/jagyanjit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/jagyanjit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/jagyanjitrout" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
+I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
+<br>
+Feel free to get in touch or check out my portfolio!
+</p>
+<p align="center">
+  🌐 **[My Portfolio](https://portfolio-website-lake-iota-24.vercel.app/)**
+</p>
+<br>
+<p align="center">
+  <a href="mailto:jagyanjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jagyanjit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://codesandbox.io/u/jagyanjit"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
+  &nbsp;
+  <a href="https://www.leetcode.com/jagyanjit"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  &nbsp;
+  <a href="https://www.behance.net/jagyanjitrout"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
