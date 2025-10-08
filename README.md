@@ -18,11 +18,11 @@
 
 ---
 
-### **🚀 What I Do**
+### *🚀 What I Do*
 
 <table align="center" border="0" cellpadding="15">
   <tr align="center">
-    <th>☁️ Cloud & DevOps</th>
+    <th>☁ Cloud & DevOps</th>
     <th>🔧 CI/CD Engineering</th>
     <th>🤖 Machine Learning</th>
   </tr>
@@ -35,7 +35,7 @@
 
 ---
 
-### **🛠️ My Tech Arsenal**
+### *🛠 My Tech Arsenal*
 
 <p align="center">
   <strong>Cloud & DevOps</strong><br><br>
@@ -68,7 +68,7 @@
 
 ---
 
-### **📊 My GitHub Contributions**
+### *📊 My GitHub Contributions*
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="Jagyanjit's GitHub Stats" />
@@ -81,7 +81,7 @@
 
 ---
 
-### **📫 Let's Connect!**
+### *📫 Let's Connect!*
 
 <p align="center">
 I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
@@ -89,7 +89,7 @@ I'm always excited to discuss new projects, innovative ideas, and collaboration 
 Feel free to get in touch or check out my portfolio!
 </p>
 <p align="center">
-  🌐 **[My Portfolio](https://portfolio-website-lake-iota-24.vercel.app/)**
+  🌐 [**My Portfolio**](https://portfolio-website-lake-iota-24.vercel.app/)
 </p>
 <br>
 <p align="center">
