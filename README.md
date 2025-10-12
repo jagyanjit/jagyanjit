@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Commits-96%20(Middle%20Committer)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-11%20(Middle%20Creator)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-12%20(Middle%20Creator)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </p>
 
 <div align="center">
