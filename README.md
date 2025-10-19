@@ -70,11 +70,6 @@
 
 ### *📊 My GitHub Contributions*
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="150" alt="Jagyanjit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagyanjit&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
@@ -94,7 +89,7 @@ Feel free to get in touch or check out my portfolio!
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-website-lake-iota-24.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://geekyjr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
   &nbsp;&nbsp;
   <a href="https://codesandbox.io/u/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
   &nbsp;&nbsp;
