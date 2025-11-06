@@ -89,7 +89,7 @@ Feel free to get in touch or check out my portfolio!
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://geekyjr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jagyanjit.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
   &nbsp;&nbsp;
   <a href="https://codesandbox.io/u/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
   &nbsp;&nbsp;
