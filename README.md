@@ -10,11 +10,16 @@
   <img src="https://img.shields.io/badge/Repositories-16%20(Middle%20Creator)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </p>
 
+---
+
 <div align="center">
 
-> I am a proactive developer passionate about the intersection of cloud computing, DevOps, and machine learning. My goal is to create automated, scalable, and intelligent systems that deliver robust performance and tangible business value.
-
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there
 </div>
+
+> I am a proactive developer passionate about the intersection of cloud computing, DevOps, and machine learning. <br>
+> My goal is to create automated, scalable, and intelligent systems that deliver robust performance and tangible business value.
+
 
 ---
 
@@ -35,35 +40,22 @@
 
 ---
 
-### *🛠 My Tech Arsenal*
-
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
 <p align="center">
-  <strong>Cloud & DevOps</strong><br><br>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<strong>Cloud & DevOps</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git&theme=dark&perline=8" />
 </p>
 <p align="center">
-  <strong>Machine Learning & Data Science</strong><br><br>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<strong>Machine Learning & Data Science</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql&theme=dark&perline=8" />
 </p>
 <p align="center">
-  <strong>Frontend & Backend</strong><br><br>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<strong>Frontend & Backend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,mongodb,firebase&theme=dark&perline=8" />
+</p>
+<p align="center">
+<strong>Programming</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python,dart&theme=dark&perline=8" />
 </p>
 
 ---
