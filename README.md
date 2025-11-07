@@ -1,24 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Jagyanjit%20Rout&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20and%20Web%20Developer%20|%20ML%20Practitioner&descAlignY=51&descAlign=62" alt="Header Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagyanjit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Commits-187%20(Middle%20Committer)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Repositories-16%20(Middle%20Creator)-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</p>
-
----
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there, I'm Jagyanjit
+</h1>
 
 <div align="center">
-
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there
+  <!-- Developer GIF -->
+  <img src="./dev.gif" alt="Developer animation" width="250" />
+  
+  <!-- Typing animation -->
+  <br />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Cloud+Developer;Building+Scalable+Applications&repeat=true&cursor=%7C"
+    alt="Typing SVG"
+  />
 </div>
-
-> I am a proactive developer passionate about the intersection of cloud computing, DevOps, and machine learning. <br>
-> My goal is to create automated, scalable, and intelligent systems that deliver robust performance and tangible business value.
 
 
 ---
