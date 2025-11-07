@@ -68,7 +68,7 @@
     </td>
     <td align="center" style="padding-left: 20px;">
       <img
-        src="./snake.jpeg"
+        src="./aurafarm.gif"
         alt="Snake"
         height="410"
         style="object-fit: cover; border-radius: 10px;"
