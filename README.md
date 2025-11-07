@@ -51,22 +51,23 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
-<!-- Right-side GIF -->
+<!-- Right-side aurafarm.gif -->
 <img 
   src="./aurafarm.gif" 
   alt="aurafarm animation" 
   align="right" 
-  height="360"
-  style="object-fit: cover; border-radius: 10px; margin-right: 30px; margin-top: 40px;"
+  height="320"
+  style="object-fit: cover; border-radius: 10px; margin-right: 25px; margin-top: 35px;"
 />
 
 <!-- Left-side 3D Contribution Graph -->
 <img
   src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
   alt="3D Contribution Graph"
-  height="360"
-  style="border-radius: 10px; margin-left: 30px;"
+  height="320"
+  style="border-radius: 10px; margin-left: 25px;"
 />
+
 
 ---
 
