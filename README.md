@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="./snake.jpeg" alt="profile animation" width="250" />
+  <img src="./snake.gif" alt="profile animation" width="250" />
   <br />
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Cloud+Developer;Building+Scalable+Applications&repeat=true&cursor=%7C"
