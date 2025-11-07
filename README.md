@@ -60,14 +60,13 @@
   style="object-fit: cover; border-radius: 10px; margin-right: 25px; margin-top: 35px;"
 />
 
-<!-- Left-side 3D Contribution Graph -->
+<!-- Left-side 3D Contribution Graph (your own) -->
 <img
-  src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
-  alt="3D Contribution Graph"
+  src="https://raw.githubusercontent.com/jagyanjit/jagyanjit/main/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="Jagyanjit's 3D Contribution Graph"
   height="320"
   style="border-radius: 10px; margin-left: 25px;"
 />
-
 
 ---
 
