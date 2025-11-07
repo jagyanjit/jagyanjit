@@ -49,23 +49,33 @@
 
 ---
 
-### <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
-    alt="Jagyanjit's GitHub Stats"
-    height="200"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&card_width=420"
-    alt="Top Languages"
-    height="200"
-  />
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
+        alt="Jagyanjit's GitHub Stats"
+        height="200"
+      />
+      <br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&card_width=420"
+        alt="Top Languages"
+        height="200"
+      />
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img
+        src="./snake.jpeg"
+        alt="Snake"
+        height="410"
+        style="object-fit: cover; border-radius: 10px;"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
