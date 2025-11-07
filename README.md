@@ -51,29 +51,22 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
-<!-- Float-right GIF (pulled closer to stats) -->
+<!-- Right-side GIF -->
 <img 
   src="./aurafarm.gif" 
   alt="aurafarm animation" 
   align="right" 
-  height="360" 
-  style="object-fit: cover; border-radius: 10px; margin-right: -40px; margin-top: 40px;"
+  height="360"
+  style="object-fit: cover; border-radius: 10px; margin-right: 30px; margin-top: 40px;"
 />
 
-<!-- Stats block (nudged slightly toward GIF) -->
-<div style="margin-left: 60px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
-    alt="Jagyanjit's GitHub Stats"
-    height="200"
-  />
-  <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=ffffff&card_width=420"
-    alt="Top Languages"
-    height="180"
-  />
-</div>
+<!-- Left-side 3D Contribution Graph -->
+<img
+  src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="3D Contribution Graph"
+  height="360"
+  style="border-radius: 10px; margin-left: 30px;"
+/>
 
 ---
 
