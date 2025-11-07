@@ -51,31 +51,29 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
-        alt="Jagyanjit's GitHub Stats"
-        height="200"
-      />
-      <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&card_width=420"
-        alt="Top Languages"
-        height="200"
-      />
-    </td>
-    <td align="center" style="padding-left: 20px;">
-      <img
-        src="./aurafarm.gif"
-        alt="Snake"
-        height="410"
-        style="object-fit: cover; border-radius: 10px;"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Float-right GIF (pulled closer to stats) -->
+<img 
+  src="./aurafarm.gif" 
+  alt="aurafarm animation" 
+  align="right" 
+  height="360" 
+  style="object-fit: cover; border-radius: 10px; margin-right: -40px; margin-top: 40px;"
+/>
+
+<!-- Stats block (nudged slightly toward GIF) -->
+<div style="margin-left: 60px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
+    alt="Jagyanjit's GitHub Stats"
+    height="200"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=ffffff&card_width=420"
+    alt="Top Languages"
+    height="180"
+  />
+</div>
 
 ---
 
