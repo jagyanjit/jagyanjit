@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there, I'm Jagyanjit
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">&nbsp;
+  Hi there, I'm Jagyanjit
 </h1>
 
+
 <div align="center">
-  <!-- Developer GIF -->
   <img src="./dev.gif" alt="Developer animation" width="250" />
-  
-  <!-- Typing animation -->
   <br />
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Cloud+Developer;Building+Scalable+Applications&repeat=true&cursor=%7C"
@@ -13,8 +13,10 @@
   />
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing Animation" />
+</p>
 
----
 
 ### *🚀 What I Do*
 
