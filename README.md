@@ -53,7 +53,7 @@
 
 <!-- Right-side aurafarm.gif -->
 <img 
-  src="./aurafarm.gif" 
+  src="./nebula.gif" 
   alt="aurafarm animation" 
   align="right" 
   height="320"
@@ -70,7 +70,7 @@
 
 ---
 
-### *📫 Let's Connect!*
+### <img src="https://c.tenor.com/s4x0cvU5rUkAAAAC/tenor.gif" width="22px" align="top"/> &nbsp; Let's Connect!
 
 <p align="center">
 I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
