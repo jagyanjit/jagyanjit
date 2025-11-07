@@ -41,26 +41,37 @@
 ---
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
-<p align="center">
-<strong>Cloud & DevOps</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git&theme=dark&perline=8" />
-</p>
-<p align="center">
-<strong>Machine Learning & Data Science</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql&theme=dark&perline=8" />
-</p>
-<p align="center">
-<strong>Frontend & Backend</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,mongodb,firebase&theme=dark&perline=8" />
-</p>
-<p align="center">
-<strong>Programming</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python,dart&theme=dark&perline=8" />
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git&theme=dark&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning & Data Science</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql&theme=dark&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,mongodb,firebase&theme=dark&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Programming</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python,dart&theme=dark&perline=8" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-### *📊 My GitHub Contributions*
+### <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagyanjit&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
