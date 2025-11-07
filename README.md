@@ -17,24 +17,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing Animation" />
 </p>
 
-
-### *🚀 What I Do*
-
-<table align="center" border="0" cellpadding="15">
-  <tr align="center">
-    <th>☁ Cloud & DevOps</th>
-    <th>🔧 CI/CD Engineering</th>
-    <th>🤖 Machine Learning</th>
-  </tr>
-  <tr align="center">
-    <td>Architecting and automating secure, scalable infrastructure on AWS with Terraform, Docker, and Kubernetes.</td>
-    <td>Designing and implementing robust CI/CD pipelines using Jenkins (Pipeline-as-Code) to streamline development.</td>
-    <td>Developing and deploying predictive models to uncover insights and drive data-informed decisions.</td>
-  </tr>
-</table>
-
----
-
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
 <table align="center">
     <tr>
@@ -68,9 +50,21 @@
 
 ### <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagyanjit&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jagyanjit&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&icon_color=2f81f7&ring_color=2f81f7&card_width=420"
+    alt="Jagyanjit's GitHub Stats"
+    height="200"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagyanjit&layout=compact&hide_border=true&bg_color=0d1117&title_color=2f81f7&text_color=ffffff&card_width=420"
+    alt="Top Languages"
+    height="200"
+  />
+</div>
+
 
 ---
 
