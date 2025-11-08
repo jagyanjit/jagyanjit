@@ -21,7 +21,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
 <table align="center">
     <tr>
-    <td><strong>Programming</strong></td>
+    <td><strong>Languages</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python,dart&theme=dark&perline=8" />
     </td>
@@ -70,7 +70,7 @@
 
 ---
 
-### <img src="https://c.tenor.com/s4x0cvU5rUkAAAAC/tenor.gif" width="22px" align="top"/> &nbsp; Let's Connect!
+### <img src="./connection.gif" width="22px" align="top"/> &nbsp; Let's Connect!
 
 <p align="center">
 I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
@@ -91,3 +91,14 @@ Feel free to get in touch or check out my portfolio!
   &nbsp;&nbsp;
   <a href="https://www.behance.net/jagyanjitrout" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
