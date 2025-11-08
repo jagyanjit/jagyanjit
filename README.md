@@ -19,32 +19,56 @@
 </p>
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
-<table align="center">
-    <tr>
-    <td><strong>Languages</strong></td>
+<table align="center" style="border-collapse: collapse; text-align: left;">
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="./code.apng" alt="code" style="height: 2.4rem; width: auto;" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>Languages</strong>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,python,dart&theme=dark&perline=8" />
     </td>
   </tr>
-    <tr>
-    <td><strong>M-E-R-N</strong></td>
+
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="./stack.apng" alt="stack" style="height: 2.4rem; width: auto;" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>M-E-R-N</strong>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mongodb,express,react,nodejs&theme=dark&perline=8" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Cloud & DevOps</strong></td>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="./cloud.apng" alt="cloud" style="height: 2.4rem; width: auto;" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>Cloud & DevOps</strong>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git&theme=dark&perline=8" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Machine Learning & Data Science</strong></td>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="./settings.apng" alt="settings" style="height: 2.4rem; width: auto;" />
+    </td>
+    <td style="vertical-align: middle;">
+      <strong>Machine Learning & Data Science</strong>
+    </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,pytorch&theme=dark&perline=8" />
     </td>
   </tr>
 </table>
+
 
 
 ---
@@ -91,6 +115,7 @@ Feel free to get in touch or check out my portfolio!
   &nbsp;&nbsp;
   <a href="https://www.behance.net/jagyanjitrout" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
+
 
 
 
