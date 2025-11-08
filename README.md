@@ -27,7 +27,7 @@
     </td>
   </tr>
     <tr>
-    <td><strong>Frontend & Backend</strong></td>
+    <td><strong>M-E-R-N</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mongodb,express,react,nodejs&theme=dark&perline=8" />
     </td>
