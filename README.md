@@ -70,7 +70,7 @@
 
 ---
 
-### <img src="./connection.gif" width="22px" align="top"/> &nbsp; Let's Connect!
+### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
 
 <p align="center">
 I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
