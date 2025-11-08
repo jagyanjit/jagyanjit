@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there
     <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">&nbsp;
-  I'm Jagyanjit
+  Jagyanjit's here
 </h1>
 
 
@@ -102,7 +102,7 @@
     <!-- Left image -->
     <td rowspan="5" style="vertical-align: middle;">
       <img
-        src="./lefttouch.jpeg"
+        src="./ltouch.jpeg"
         alt="left hand"
         height="213"
         style="object-fit: cover; border-radius: 10px;"
@@ -111,7 +111,7 @@
     <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;"> ‎ ‎ ‎ Reach Me !! </td>
     <td rowspan="5" style="vertical-align: middle;">
       <img
-        src="./righttouch.jpeg"
+        src="./rtouch.jpeg"
         alt="right hand"
         height="213"
         style="object-fit: cover; border-radius: 10px;"
