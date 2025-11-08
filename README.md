@@ -121,7 +121,7 @@
 
   <tr>
     <td>
-      <a href="mailto:jagyanjit@gmail.com" target="_blank">
+      <a href="mailto:jagyanjit@gmail.com" target="_blank" rel="noopener noreferrer">
         <img
           src="https://skillicons.dev/icons?i=gmail"
           alt="Gmail"
@@ -130,7 +130,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/jagyanjit" target="_blank">
+      <a href="https://www.linkedin.com/in/jagyanjit" target="_blank" rel="noopener noreferrer">
         <img src="./linkedin.png" alt="LinkedIn" style="height: 40px; width: auto;" />
       </a>
     </td>
@@ -138,12 +138,12 @@
 
   <tr>
     <td>
-      <a href="https://jagyanjit.vercel.app" target="_blank">
+      <a href="https://jagyanjit.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="./portfolio.png" alt="Portfolio" style="height: 40px; width: auto;" />
       </a>
     </td>
     <td>
-      <a href="https://x.com/jagyanjit" target="_blank">
+      <a href="https://x.com/jagyanjit" target="_blank" rel="noopener noreferrer">
         <img src="./x.png" alt="X" style="height: 40px; width: auto;" />
       </a>
     </td>
@@ -151,14 +151,15 @@
 
   <tr>
     <td>
-      <a href="https://www.behance.net/jagyanjitrout" target="_blank">
+      <a href="https://www.behance.net/jagyanjitrout" target="_blank" rel="noopener noreferrer">
         <img src="./behance.png" alt="Behance" style="height: 40px; width: auto;" />
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/marathawne" target="_blank">
+      <a href="https://www.instagram.com/marathawne" target="_blank" rel="noopener noreferrer">
         <img src="./instagram.png" alt="Instagram" style="height: 40px; width: auto;" />
       </a>
     </td>
   </tr>
 </table>
+
