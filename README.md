@@ -108,7 +108,7 @@
         style="object-fit: cover; border-radius: 10px;"
       />
     </td>
-    <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;"> ‎ ‎‎  ‎‎ ‎ ‎ ‎  Reach Me !! </td>
+    <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;"> ‎ ‎‎  ‎‎ ‎ ‎ ‎ Reach Me !! </td>
     <td rowspan="5" style="vertical-align: middle;">
       <img
         src="./rtouch.jpeg"
