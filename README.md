@@ -97,7 +97,7 @@
 ### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
 
 
-<table align="right" style="border-collapse: collapse; text-align: center;">
+<table align="center" style="border-collapse: collapse; text-align: center;">
   <tr>
     <!-- Left image -->
     <td rowspan="5" style="vertical-align: middle;">
