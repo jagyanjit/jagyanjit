@@ -98,14 +98,14 @@
 
 
 <img 
-  src="./left-touch.jpg" 
+  src="./left-touch.jpeg" 
   alt="aurafarm animation" 
   align="left" 
   height="213"
   style="object-fit: cover; border-radius: 10px; margin-left: 10px; margin-top: 35px;"
 />
 <img 
-  src="./right-touch.jpg" 
+  src="./right-touch.jpeg" 
   alt="aurafarm animation" 
   align="right" 
   height="213"
