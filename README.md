@@ -41,7 +41,7 @@
   <tr>
     <td><strong>Machine Learning & Data Science</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,pytorch&theme=dark&perline=8" />
     </td>
   </tr>
 </table>
