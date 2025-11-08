@@ -96,46 +96,6 @@
 
 ### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
 
-<p align="center">
-I'm always excited to discuss new projects, innovative ideas, and collaboration opportunities.
-<br>
-Feel free to get in touch or check out my portfolio!
-</p>
-<br>
-<p align="center">
-  <a href="mailto:jagyanjit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://jagyanjit.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=serverless&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;&nbsp;
-  <a href="https://codesandbox.io/u/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/jagyanjit" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.behance.net/jagyanjitrout" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,twitter,instagram,vue,flutter&perline=3)](https://skillicons.dev)
-
-
-
-
----
-
-### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
-
 
 <img 
   src="./left-touch.jpg" 
