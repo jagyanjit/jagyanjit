@@ -61,7 +61,7 @@
       <img src="./settings.apng" alt="settings" style="height: 2.4rem; width: auto;" />
     </td>
     <td style="vertical-align: middle;">
-      <strong>Machine Learning & Data Science</strong>
+      <strong>Machine Learning & Deep Learning</strong>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,pytorch&theme=dark&perline=8" />
