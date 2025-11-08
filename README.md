@@ -97,32 +97,38 @@
 ### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
 
 
-<img 
-  src="./left-touch.jpeg" 
-  alt="aurafarm animation" 
-  align="left" 
-  height="213"
-  style="object-fit: cover; border-radius: 10px; margin-left: 10px; margin-top: 35px;"
-/>
-<img 
-  src="./right-touch.jpeg" 
-  alt="aurafarm animation" 
-  align="right" 
-  height="213"
-  style="object-fit: cover; border-radius: 10px; margin-left: 10px; margin-top: 35px;"
-/>
+<table align="right" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <!-- Left image -->
+    <td rowspan="5" style="vertical-align: middle;">
+      <img
+        src="./lefttouch.jpeg"
+        alt="left hand"
+        height="213"
+        style="object-fit: cover; border-radius: 10px;"
+      />
+    </td>
+    <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;">
+      SOCIALS !!
+    </td>
+    <td rowspan="5" style="vertical-align: middle;">
+      <img
+        src="./righttouch.jpeg"
+        alt="right hand"
+        height="213"
+        style="object-fit: cover; border-radius: 10px;"
+      />
+    </td>
+  </tr>
 
-
-
-<table align="center" style="border-collapse: collapse; text-align: center;">
-  <!-- Header row -->
-  <tr> <td colspan="2" style="display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; height: 3rem;"> ‎ ‎  ‎ ‎‎ SOCIALS !! </td> </tr>
-
-  <!-- Row 2 -->
   <tr>
     <td>
       <a href="mailto:jagyanjit@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="height: 40px; width: auto;" />
+        <img
+          src="https://skillicons.dev/icons?i=gmail"
+          alt="Gmail"
+          style="height: 40px; width: auto;"
+        />
       </a>
     </td>
     <td>
@@ -132,7 +138,6 @@
     </td>
   </tr>
 
-  <!-- Row 3 -->
   <tr>
     <td>
       <a href="https://jagyanjit.vercel.app" target="_blank">
@@ -141,12 +146,11 @@
     </td>
     <td>
       <a href="https://x.com/jagyanjit" target="_blank">
-        <img src="./x.png" alt="X (Twitter)" style="height: 40px; width: auto;" />
+        <img src="./x.png" alt="X" style="height: 40px; width: auto;" />
       </a>
     </td>
   </tr>
 
-  <!-- Row 4 -->
   <tr>
     <td>
       <a href="https://www.behance.net/jagyanjitrout" target="_blank">
@@ -162,4 +166,102 @@
 </table>
 
 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td>
+      <i> In a realm where creativity meets precision, </i> <br>
+      <i> ideas grow into reality through code and </i> <br>
+      <i> design. Every small pixel carries meaning, <i> <br>
+      <i> and every line of logic fuels innovation. </i> <br>
+      <i> This space is a quiet mix of art and </i> <br>
+      <i> engineering, connecting imagination with </i> <br>
+      <i> function. It’s not just about what we build, </i> <br>
+      <i> but how we make it feel alive. </i>
+      </td>
+  </tr>
+</table>
 
+---
+
+---
+
+### <img src="./link.apng" width="22px" align="top"/> &nbsp; Let's Connect!
+
+
+<table align="right" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <!-- Left image -->
+    <td rowspan="5" style="vertical-align: middle;">
+      <img
+        src="./lefttouch.jpeg"
+        alt="left hand"
+        height="213"
+        style="object-fit: cover; border-radius: 10px;"
+      />
+    </td>
+    <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;">
+      SOCIALS !!
+    </td>
+    <td rowspan="5" style="vertical-align: middle;">
+      <img
+        src="./righttouch.jpeg"
+        alt="right hand"
+        height="213"
+        style="object-fit: cover; border-radius: 10px;"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="mailto:jagyanjit@gmail.com" target="_blank">
+        <img
+          src="https://skillicons.dev/icons?i=gmail"
+          alt="Gmail"
+          style="height: 40px; width: auto;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/jagyanjit" target="_blank">
+        <img src="./linkedin.png" alt="LinkedIn" style="height: 40px; width: auto;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://jagyanjit.vercel.app" target="_blank">
+        <img src="./portfolio.png" alt="Portfolio" style="height: 40px; width: auto;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/jagyanjit" target="_blank">
+        <img src="./x.png" alt="X" style="height: 40px; width: auto;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.behance.net/jagyanjitrout" target="_blank">
+        <img src="./behance.png" alt="Behance" style="height: 40px; width: auto;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/marathawne" target="_blank">
+        <img src="./instagram.png" alt="Instagram" style="height: 40px; width: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td>
+    <img src="./nebula.gif" alt="aurafarm animation" align="left" height="213"style="object-fit: cover; border-radius: 10px; margin-right: 25px; margin-top: 35px;"/>
+
+    </td>
+  </tr>
+</table>
