@@ -29,7 +29,7 @@
     <tr>
     <td><strong>Frontend & Backend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,mongodb,firebase&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mongodb,express,react,nodejs&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
