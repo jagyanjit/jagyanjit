@@ -102,7 +102,7 @@
     <!-- Left image -->
     <td rowspan="5" style="vertical-align: middle;">
       <img
-        src="./ltouch.jpeg"
+        src="./ltouch1.jpeg"
         alt="left hand"
         height="213"
         style="object-fit: cover; border-radius: 10px;"
@@ -111,7 +111,7 @@
     <td colspan="2" style="font-weight: bold; font-size: 1.2rem; height: 3rem;"> ‎ ‎‎  ‎‎ ‎‎ ‎ Reach Me !! </td>
     <td rowspan="5" style="vertical-align: middle;">
       <img
-        src="./rtouch.jpeg"
+        src="./rtouch1.jpeg"
         alt="right hand"
         height="213"
         style="object-fit: cover; border-radius: 10px;"
