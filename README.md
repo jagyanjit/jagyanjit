@@ -77,7 +77,7 @@
 
 <!-- Right-side aurafarm.gif -->
 <img 
-  src="./nebula.gif" 
+  src="./snippet.gif" 
   alt="aurafarm animation" 
   align="right" 
   height="320"
