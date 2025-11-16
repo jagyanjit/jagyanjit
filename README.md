@@ -68,27 +68,3 @@
     </td>
   </tr>
 </table>
-
-
-
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22px" align="top"/> &nbsp; Contribution
-
-<!-- Right-side aurafarm.gif -->
-<img 
-  src="./snippet.gif" 
-  alt="aurafarm animation" 
-  align="right" 
-  height="320"
-  style="object-fit: cover; border-radius: 10px; margin-right: 25px; margin-top: 35px;"
-/>
-
-<!-- Left-side 3D Contribution Graph (your own) -->
-<img
-  src="https://raw.githubusercontent.com/jagyanjit/jagyanjit/main/profile-3d-contrib/profile-night-rainbow.svg"
-  alt="Jagyanjit's 3D Contribution Graph"
-  height="320"
-  style="border-radius: 10px; margin-left: 25px;"
-/>
-
