@@ -4,7 +4,6 @@
   Jagyanjit's here
 </h1>
 
-
 <div align="center">
   <img src="./snake.gif" alt="profile animation" width="250" />
   <br />
@@ -19,6 +18,7 @@
 </p>
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Arsenal
+
 <table align="center" style="border-collapse: collapse; text-align: left;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
