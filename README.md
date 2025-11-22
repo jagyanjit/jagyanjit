@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/fast-hand-typing-and-coding-0uslw3r3prtbtsg8.webp" alt="profile animation" width="250" />
+  <img src="https://i.pinimg.com/originals/4b/e1/6c/4be16c6b3f93bc6ce988e812c93904ae.gif" alt="profile animation" width="250" />
   <br />
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Cloud+Developer;Building+Scalable+Applications&repeat=true&cursor=%7C"
